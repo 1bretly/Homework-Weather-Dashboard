@@ -13,6 +13,6 @@ The UV index is represented with a color that indicates whether the conditions a
 ![Weather Dashboard](./Assets/06-server-side-apis-homework-demo.png)
 
 
-<!-- Links to Githun and deployed site -->
+<!-- Links to Github and deployed site -->
 https://github.com/1bretly/Homework-Weather-Dashboard
 https://1bretly.github.io/Homework-Weather-Dashboard/
